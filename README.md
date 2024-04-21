@@ -4,19 +4,19 @@ En este repositorio encontrarán los códigos utilizados durante las clases teó
 
 ---
 
-#### Cátedra de Taller de Lenguajes 1
+### Taller de Lenguajes 1
 
-#### Facultad de Ciencias Exactas y Tecnología
+### Facultad de Ciencias Exactas y Tecnología
 
-#### Universidad Nacional de Tucumán
+### Universidad Nacional de Tucumán
 
 #### Docentes
 
 - Javier Graña
 - Sergio Luis Guardia
-- Agustin Décima
+- Agustín Décima
 
-#### Auxiliares
+#### Ayudantes Estudiantiles
 
 - Mariano Girbau
 - Javier Nacchio
